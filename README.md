@@ -1,3 +1,26 @@
+## zmqpp_vendor (rolling) - 0.0.1-1
+
+The packages in the `zmqpp_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --ros-distro rolling zmqpp_vendor` on `Thu, 12 May 2022 09:44:40 -0000`
+
+The `zmqpp_vendor` package was released.
+
+Version of package(s) in repository `zmqpp_vendor`:
+
+- upstream repository: https://github.com/tier4/zmqpp_vendor.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.1`
+- catkin_pkg version: `0.5.0`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## zmqpp_vendor (galactic) - 0.0.1-1
 
 The packages in the `zmqpp_vendor` repository were released into the `galactic` distro by running `/usr/bin/bloom-release --track galactic --ros-distro galactic zmqpp_vendor` on `Thu, 12 May 2022 09:41:01 -0000`
