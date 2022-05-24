@@ -1,3 +1,26 @@
+## zmqpp_vendor (foxy) - 0.0.1-4
+
+The packages in the `zmqpp_vendor` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --track foxy --ros-distro foxy zmqpp_vendor` on `Tue, 24 May 2022 03:45:42 -0000`
+
+The `zmqpp_vendor` package was released.
+
+Version of package(s) in repository `zmqpp_vendor`:
+
+- upstream repository: https://github.com/tier4/zmqpp_vendor.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.0.1-3`
+- new version: `0.0.1-4`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## zmqpp_vendor (humble) - 0.0.1-1
 
 The packages in the `zmqpp_vendor` repository were released into the `humble` distro by running `/usr/bin/bloom-release --track humble --ros-distro humble zmqpp_vendor` on `Fri, 13 May 2022 10:25:27 -0000`
